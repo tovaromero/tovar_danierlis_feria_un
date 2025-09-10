@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Administrador Registrado - Colegio San José de Guanentá</title>
-  <link rel="stylesheet" href="/opt/lampp/htdocs/tovar_danierlis_feria_un/style.css">
+  <link rel="stylesheet" href="../style.css">
 
 </head>
 <body>
