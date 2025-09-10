@@ -18,4 +18,8 @@
   <img src="img/screen10.jpg" alt="">
   <img src="img/screen11.jpg" alt="">
   <img src="img/screen12.jpg" alt="">
+  <img src="img/screen13.jpg" alt="">
+  <img src="img/screen14.jpg" alt="">
+  <img src="img/screen15.jpg" alt="">
+  <img src="img/screen16.jpg" alt="">
  </section>
